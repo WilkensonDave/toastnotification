@@ -1,4 +1,6 @@
-![Alt text](images/toast.PNG)
+
+<img src="images/toast.PNG" width="300" alt="Translate image">
+
 
 # Toast notification using Javascript, HTML and CSS
 
