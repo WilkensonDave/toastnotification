@@ -1,5 +1,5 @@
 
-<img src="images/toast.PNG" width="300" alt="Translate image">
+<img src="images/toast.PNG" width="400" alt="toast Image">
 
 
 # Toast notification using Javascript, HTML and CSS
